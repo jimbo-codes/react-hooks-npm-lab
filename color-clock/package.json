@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "date-fns": "^2.26.0",
+    "serve": "^13.0.2"
+  },
+  "scripts": {
+    "test": "echo 'Hello World!'",
+    "start": "serve"
+  }
+}
